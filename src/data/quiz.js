@@ -8,22 +8,22 @@ export const QUIZ_QUESTIONS = [
   },
   {
     q: 'Who is Baby lowkey (highkey) obsessed with?',
-    options: ['You', 'Some random YouTuber', 'Nobody, she has self control', 'You, 24/7'],
-    correct: 0,
+    options: ['Herself', 'Some random YouTuber', 'Nobody, she has self control', 'Me, 24/7'],
+    correct: 3,
   },
   {
     q: "What happens when Veer successfully ragebaits Baby?",
     options: [
       'She laughs it off immediately',
-      'She goes silent for exactly 4 minutes, then curses him out',
+      'She goes silent for exactly 4 minutes, then curses me out',
       'She ragebaits back twice as hard',
-      'She blocks him (jk... unless)',
+      'She blocks me (jk... unless)',
     ],
     correct: 1,
   },
   {
     q: 'Our relationship anniversary date?',
-    options: ['Feb 9, 2026', 'Sept 22, 2026', 'Jan 1, 2026', "He doesn't remember, does he"],
+    options: ['Feb 9, 2026', 'Sept 22, 2026', 'Jan 1, 2026', "I don't remember"],
     correct: 0,
   },
   {

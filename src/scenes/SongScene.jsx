@@ -89,7 +89,7 @@ export default function SongScene() {
             </button>
 
             <p className="mt-8 font-body text-xs text-ash">
-              Real photos land here in the next act — for now, it's just us and the song.
+              Stay here.. for now, it's just us and our song.
             </p>
 
             <Link

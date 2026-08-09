@@ -17,16 +17,16 @@ export const SONG = {
 
 export const PHOTOS = Array.from({ length: 10 }, (_, i) => ({
   id: `photo-${i + 1}`,
-  src: null, // e.g. import photo1 from '../assets/photos/01.jpg' then use photo1
-  caption: 'Placeholder — memory photo pending upload',
+  src: `/media-todo/photos/photo-${i + 1}.jpeg`,
+  caption: `Memory ${i + 1}`,
 }))
 
 export const VIDEOS = {
   scrapbook: {
     id: 'video-1',
     label: 'Video 1 — Memory Scrapbook',
-    src: null,
-    caption: 'Placeholder — scrapbook video pending upload',
+    src: '/media-todo/videos/scrapbook.mp4',
+    caption: 'Our scrapbook video',
   },
   reveal: {
     id: 'video-2',
@@ -39,6 +39,6 @@ export const VIDEOS = {
 export const VOICE_NOTE = {
   id: 'voice-note',
   label: 'Birthday Voice Note',
-  src: null, // 20–30s real recording, added late in the experience
-  caption: 'Placeholder — real recording pending upload',
+  src: '/media-todo/voice/voicenote.ogg',
+  caption: 'A voice note, just for you',
 }

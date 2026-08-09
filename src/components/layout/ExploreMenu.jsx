@@ -5,9 +5,9 @@ import GlobalAudioPlayer from '../audio/GlobalAudioPlayer'
 
 const ITEMS = [
   { label: 'Arcade', path: '/arcade' },
-  { label: 'Baby Quiz', path: '/quiz' },
   { label: 'Memories', path: '/memories' },
   { label: 'Our Song', path: '/song' },
+  { label: 'Baby Quiz', path: '/quiz' },
   { label: 'Veer Wrapped', path: '/wrapped' },
   { label: 'Open When', path: '/open-when' },
   { label: '20 Things', path: '/20-things' },
