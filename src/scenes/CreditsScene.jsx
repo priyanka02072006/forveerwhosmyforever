@@ -13,7 +13,7 @@ const BLOCKS = [
   { role: 'PRODUCED BY', lines: ['Late-night calls, FaceTimes & online dates'] },
   { role: 'WRITTEN BY', lines: ['"I love you"', '"Mwaaahhh"', '"Fuck off"'] },
   { role: 'SPECIAL EFFECTS', lines: ["Ragebaiting & pulling each other's legs"] },
-  { role: 'CINEMATOGRAPHY', lines: ['10 photos, 2 videos & countless screenshots'] },
+  { role: 'CINEMATOGRAPHY', lines: ['10 photos, 1 video & countless uncaptured memories'] },
   { role: 'SOUNDTRACK', lines: ['Do I Clench My Fists — Ridgeclub'] },
   { role: 'SPECIAL THANKS TO', lines: ['Every stupid little moment that became a memory'] },
   { role: 'RELEASE DATE', lines: ['September 22, 2026'] },
