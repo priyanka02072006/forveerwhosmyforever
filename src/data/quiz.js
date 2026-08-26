@@ -23,7 +23,7 @@ export const QUIZ_QUESTIONS = [
   },
   {
     q: 'Our relationship anniversary date?',
-    options: ['Feb 9, 2026', 'Sept 22, 2026', 'Jan 1, 2026', "I don't remember"],
+    options: ['Feb 9, 2026', 'Sept 22, 2006', 'Jul 2, 2006', "I don't remember"],
     correct: 0,
   },
   {
