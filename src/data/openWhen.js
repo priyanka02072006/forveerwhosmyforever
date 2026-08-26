@@ -57,6 +57,6 @@ Now forget I said anything this soft.`,
 
 ...fine. Do your worst. I'll pretend to hate it.
 
-Enjoy your privilege, fucker.❤️,
+Enjoy your privilege, fucker.❤️`,
   },
 ]
