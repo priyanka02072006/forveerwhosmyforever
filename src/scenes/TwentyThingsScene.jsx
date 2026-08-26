@@ -9,8 +9,9 @@ export default function TwentyThingsScene() {
     <SceneWrapper theme="memories" sceneLabel="20 THINGS ABOUT YOU">
       <div className="flex flex-1 flex-col items-center gap-10 py-8">
         <Reveal className="text-center">
-          <Eyebrow className="text-ink/50">for your 20th</Eyebrow>
-          <Headline className="mt-2">20 things about you.</Headline>
+          <Eyebrow className="text-ink/50">For your 20th</Eyebrow>
+          <Headline className="mt-2"> Here's the 20 things I love about you.</Headline>
+          <p className="mt-3 font-body text-sm text-ink/60"> I loveee it when..</p>
         </Reveal>
 
         <div className="w-full max-w-2xl divide-y divide-ink/10">
