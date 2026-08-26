@@ -4,16 +4,15 @@ export const OPEN_WHEN_LETTERS = [
     title: "you're missing me",
     body: `Hi Baby.
 
-If you're reading this, you're probably lying somewhere staring at the ceiling
-thinking about me (as you should). I'm not far. Call me, text me, send a
-reel — I'll pretend to be annoyed and answer in four seconds anyway.
+If you miss me, close your eyes for a second and imagine me right there beside you — annoying you, teasing you, stealing your attention, and probably telling you to fuck off while secretly smiling.
+Until I can be there for real, remember that your Baby is missing you too.❤️
 
 Mwaaahhh.`,
   },
   {
     id: 'need-a-smile',
     title: 'you need a smile',
-    body: `Okay so — remember every single time I've ragebaited you and you fell
+    body: `Okay so — remember that somewhere out there is a girl who genuinely thinks your smile is one of the prettiest things ever. And also remember every single time you've ragebaited me and I fell
 for it anyway? Yeah. That. Think about that. You're welcome.
 
 Now go smile, idiot. I love you.`,
@@ -23,18 +22,19 @@ Now go smile, idiot. I love you.`,
     title: "you're having a bad day",
     body: `Hey. Bad days end. This one will too.
 
-You don't have to be okay right now. Just be here later so I can annoy you
-back to normal. That's the whole plan.
+I know I can't magically fix every bad day for you, but if I could, I'd take it away in a second. So for now, breathe. Take your time. Don't be too hard on yourself.
+And remember — you don't always have to be strong around me. You can just be you. Your Baby is always somewhere in your corner, cheering for you, annoying you, loving you and believing in you.❤️
 
-I love you. Fuck off (affectionately) and go rest.`,
+I love you. Fuck off and go rest.`,
   },
   {
     id: 'cant-sleep',
     title: "you can't sleep",
     body: `3am thoughts hit different, I know.
 
-Put the phone down after this. Think about something dumb we did together
-instead of whatever's actually keeping you up. It works, I promise.
+It's late. You're supposed to be sleeping. And somehow you're here reading a letter from me instead. Typical Veer.🙄
+So imagine we're on one of those stupid late-night calls, talking about absolutely nothing, laughing at things that aren't even funny, until one of us eventually goes, "Okay, sleep." 
+Close your eyes now, Baby. And if you still can't sleep… well, blame the fact that you're missing me.😌❤️
 
 Goodnight, Baby.`,
   },
@@ -43,8 +43,10 @@ Goodnight, Baby.`,
     title: 'you need to remember how much I love you',
     body: `Veer.
 
-I don't say this enough in a way that isn't wrapped in an insult, so here it
-is plainly: I love you. Actually, genuinely, annoyingly much.
+In case you ever forget — I love you.
+Not just for the big things you do, but for the tiny things too. Your smile. Your laugh. Your voice. The way you talk. The way you care. The way you protect me. The way you plead for my pictures. The stupid little gestures you probably don't even realize I notice. 
+I love you for who you are, how you treat me, and for the person I get to be when I'm with you. So whenever you doubt it, come back here.
+Your Baby loves you. More than these words could ever fit on a screen.❤️
 
 Now forget I said anything this soft.`,
   },
@@ -55,6 +57,6 @@ Now forget I said anything this soft.`,
 
 ...fine. Do your worst. I'll pretend to hate it.
 
-Fuck off. I love you.`,
+Enjoy your privilege, fucker.❤️,
   },
 ]
