@@ -18,5 +18,5 @@ export const TWENTY_THINGS = [
   'You take care of things quietly instead of making it a whole announcement.',
   'You are, against all odds, an actual green flag.',
   "You say Mwaaahhh and it's the loudest, most ridiculous kiss.",
-  "I loveeeeeeeeeee it when you claim me as YOURS and obv SWEETHEART too",
+  "When you claim me as YOURS and obv SWEETHEART too. I Loveeeeeeeeeeeeeeeeeeee it",
 ]
