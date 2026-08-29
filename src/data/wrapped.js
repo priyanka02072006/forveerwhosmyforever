@@ -7,7 +7,7 @@ export const WRAPPED_CARDS = [
   { kind: 'stat', label: 'Unnecessary arguments started', value: 'Too many to count', color: 'wrapped3' },
   { kind: 'stat', label: 'Successful ragebaits landed', value: 'Undefeated', color: 'wrapped1' },
   { kind: 'most', label: 'Most likely to...', value: 'To apologize first after an argument.', color: 'wrapped2' },
-  { kind: 'most', label: 'Most likely to...', value: 'Yo say “Yoo baby” instead of actually saying what he wants.', color: 'wrapped3' },
+  { kind: 'most', label: 'Most likely to...', value: 'To say “Yoo baby” instead of actually saying what he wants.', color: 'wrapped3' },
   { kind: 'most', label: 'Most likely to...', value: 'To screenshot something funny (especially me) and send it to me immediately.', color: 'wrapped2' },
   {
     kind: 'love',
